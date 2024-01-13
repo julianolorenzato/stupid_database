@@ -1,5 +1,5 @@
 defmodule Query do
-
+  defstruct selected: []
   # defstruct select: nil, from: nil, where: nil
 
   # defmacro select(fields, fun) do

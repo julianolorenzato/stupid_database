@@ -1,6 +1,6 @@
 import StupidDatabase
 import Query
-import Table
+import Format
 
 data = Data.get()
 heroes = data["heroes"]
